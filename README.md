@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Vídeo: “Você acredita que eu não sou real?” 
 
-## 🚀 Introdução
+📒 Descrição
+Este é um vídeo curto e provocativo criado inteiramente com inteligência artificial generativa. O grande destaque é a fala do avatar: “Boa tarde! Você acredita se eu te falar que eu não sou real?” .
 
-> Woooow! Look at this 👀
+A proposta é brincar com a fronteira entre o real e o sintético, usando a própria IA para gerar um personagem que questiona sua existência, criando uma experiência meta e reflexiva sobre o avanço das IAs generativas.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🤖 Tecnologias Utilizadas
+Google Flow (Google Labs) : Plataforma de estúdio criativo com IA utilizada para gerar o vídeo, o avatar e a voz sintetizada.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Modelos generativos do Google (Gemini / Veo / Omni) : Responsáveis pela criação do vídeo cinematográfico, incluindo áudio nativo e consistência visual.
 
-### Objetivos
+🧐 Processo de Criação
+O vídeo foi concebido para ser uma peça curta de impacto. Usei o Google Flow para gerar a cena e o avatar, aproveitando a capacidade da plataforma de transformar comandos de texto em narrativas visuais completas. A fala do avatar foi inserida como o elemento central da narrativa, e a síntese de voz foi ajustada para soar natural e levemente enigmática, reforçando o tom da pergunta.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+O processo não exigiu equipamentos de filmagem ou edição externa: tudo foi dirigido por linguagem natural dentro do próprio Flow, que unifica geração de vídeo, imagem e áudio em um único ambiente.
 
-### Template
+🚀 Resultados
+O resultado é um vídeo que funciona como uma cápsula de reflexão sobre a verossimilhança das IAs. A fala do avatar — “Você acredita se eu te falar que eu não sou real?” — provoca o espectador a reconsiderar o que significa “real” em um mundo onde avatares sintéticos podem ser visual e vocalmente indistinguíveis de humanos.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+💭 Reflexão
+Criar este vídeo foi uma experiência que misturou técnica e filosofia. A facilidade de gerar um avatar falante no Google Flow é impressionante, mas o mais interessante foi usar essa ferramenta para fazer uma pergunta que nos afeta diretamente: se a IA já consegue nos enganar tão bem, o que resta da nossa noção de realidade?
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O projeto reforça que as IAs generativas não são apenas ferramentas de produtividade, mas também meios poderosos de expressão artística e questionamento. O limite, como diz o próprio Google, é a imaginação.
